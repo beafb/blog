@@ -2,7 +2,7 @@
   <div class="main">
     <div class="outer-container">
       <div class="back">
-        <router-link to="./">back to list</router-link>
+        <router-link to="./">Retour</router-link>
       </div>
       <!-- Button to edit document in dashboard -->
       <prismic-edit-button :documentId="documentId"/>
